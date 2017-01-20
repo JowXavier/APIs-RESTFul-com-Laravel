@@ -1,12 +1,12 @@
-Desenvolvimento-de-APIs-RESTFul-com-Laravel
+# Desenvolvimento-de-APIs-RESTFul-com-Laravel
 
-Install
+## Install
 
 Clone this repository, remove .git dir and run composer install
 
-Usage
+## Usage
 
-Commands:
+## Commands:
 
 php artisan migrate - create tables
 php artisan passport:install - create the encryption keys needed to generate secure access tokens 
